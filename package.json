@@ -1,0 +1,24 @@
+{
+  "name": "face_det_rec",
+  "version": "1.0.0",
+  "description": "Detect faces and recognise who a face belong to",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eklemis/face_det_rec.git"
+  },
+  "keywords": [
+    "javascript",
+    "face_detection",
+    "face_recognition"
+  ],
+  "author": "Eklemis Santo Ndun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eklemis/face_det_rec/issues"
+  },
+  "homepage": "https://github.com/eklemis/face_det_rec#readme"
+}
